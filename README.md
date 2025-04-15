@@ -43,8 +43,6 @@ This formula is a simplified version derived from Dolbear’s Law.
 
 ---
 
-## 📷 Screenshots
-
 ## 📷 Screenshot
 
 <img src="screenshots/screenshot_one.png" alt="App Screenshot one">
